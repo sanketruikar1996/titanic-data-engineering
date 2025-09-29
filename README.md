@@ -72,5 +72,5 @@ The workflow demonstrates:
 └── README.md # Project documentation
 
 ## Visualizations
-# Survival Rate by isAlone
+### Survival Rate by isAlone
 ![Survival by isAlone](Survival_Rate_By_IsAlone.png)
