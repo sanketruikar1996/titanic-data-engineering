@@ -67,3 +67,5 @@ The workflow demonstrates:
 ---
 
 ## 📂 Repo Structure
+├── titanic_data_engineering.ipynb # Main notebook
+└── README.md # Project documentation
