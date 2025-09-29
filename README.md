@@ -73,4 +73,4 @@ The workflow demonstrates:
 
 ## Visualizations
 # Survival Rate by isAlone
-![Survival by isAlone](images/survival_by_isAlone.png)
+![Survival by isAlone](Survival_Rate_By_IsAlone.png)
