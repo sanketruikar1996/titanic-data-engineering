@@ -68,4 +68,9 @@ The workflow demonstrates:
 
 ## 📂 Repo Structure
 ├── titanic_data_engineering.ipynb # Main notebook
+
 └── README.md # Project documentation
+
+## Visualizations
+# Survival Rate by isAlone
+![Survival by isAlone](images/survival_by_isAlone.png)
